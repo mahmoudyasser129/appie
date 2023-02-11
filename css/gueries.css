@@ -244,6 +244,7 @@
   .grid-6-cols {
     grid-template-columns: 1fr;
     justify-content: center;
+    row-gap: 1.5rem;
   }
 
   .div-features {
