@@ -102,7 +102,7 @@ ul {
 .hero-description {
   font-size: 1.2rem;
   margin-bottom: 2.4rem;
-  color: rgba(7, 5, 5, 0.541);
+  color: rgba(7, 5, 5, 0.918);
   font-weight: 100;
 }
 .input-containere {
@@ -275,13 +275,13 @@ ul {
 .section-2-title p,
 .section-4-title p {
   font-weight: 300;
-  color: rgba(0, 0, 0, 0.651);
+  color: rgba(7, 5, 5, 0.918);
 }
 
 .section-2-header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 1rem;
+  margin-bottom: 2.5rem;
 }
 
 .grid-6-cols {
@@ -527,7 +527,7 @@ ul {
 .text-video p {
   font-size: 1.2rem;
   font-weight: 100;
-  color: rgba(0, 0, 0, 0.685);
+  color: rgba(7, 5, 5, 0.918);
   margin-bottom: 2.5rem;
 }
 
@@ -592,7 +592,7 @@ ul {
 
 .sec-5-p {
   font-size: 1.1rem;
-  color: rgba(0, 0, 0, 0.445);
+  color: rgba(0, 0, 0, 0.671);
   margin-bottom: 1.5rem;
 }
 
@@ -673,7 +673,7 @@ ul {
 
 .section-6-header p {
   font-size: 1.1rem;
-  color: rgba(0, 0, 0, 0.589);
+  color: rgba(0, 0, 0, 0.671);
 }
 
 .period-button {
@@ -752,7 +752,7 @@ sup {
 }
 
 .plan-text {
-  color: rgba(0, 0, 0, 0.418);
+  color: rgba(0, 0, 0, 0.671);
   font-size: 1.1rem;
   padding-bottom: 1.9rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.171);
