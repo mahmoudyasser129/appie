@@ -100,10 +100,10 @@ ul {
   margin-bottom: 1.3rem;
 }
 .hero-description {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   margin-bottom: 2.4rem;
-  color: rgba(0, 0, 0, 0.860);
-  font-weight: 100;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
 }
 .input-containere {
   display: flex;
@@ -274,8 +274,8 @@ ul {
 
 .section-2-title p,
 .section-4-title p {
-  font-weight: 300;
-  color: rgba(0, 0, 0, 0.860);
+  font-weight: 400;
+  color: rgb(0, 0, 0);
 }
 
 .section-2-header {
@@ -357,7 +357,7 @@ ul {
 
 .des-marketing {
   font-size: 1.3rem;
-  color: #4b515dc0;
+  color: #4b515d;
   margin-bottom: 2rem;
 }
 
@@ -380,7 +380,7 @@ ul {
 
 .des-way {
   font-size: 1.1rem;
-  color: hsla(220, 12%, 35%, 0.61);
+  color: #4b515d;
   line-height: 1.4;
 }
 
@@ -526,8 +526,8 @@ ul {
 
 .text-video p {
   font-size: 1.2rem;
-  font-weight: 100;
-  color: rgba(0, 0, 0, 0.860);
+  font-weight: 400;
+  color: rgb(0, 0, 0);
   margin-bottom: 2.5rem;
 }
 
@@ -592,7 +592,7 @@ ul {
 
 .sec-5-p {
   font-size: 1.1rem;
-  color: rgba(0, 0, 0, 0.671);
+  color: rgba(0, 0, 0, 0.89);
   margin-bottom: 1.5rem;
 }
 
@@ -672,8 +672,9 @@ ul {
 }
 
 .section-6-header p {
-  font-size: 1.1rem;
-  color: rgba(0, 0, 0, 0.671);
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.89);
+  font-weight: 400;
 }
 
 .period-button {
@@ -752,7 +753,7 @@ sup {
 }
 
 .plan-text {
-  color: rgba(0, 0, 0, 0.671);
+  color: rgba(0, 0, 0, 0.89);
   font-size: 1.1rem;
   padding-bottom: 1.9rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.171);
