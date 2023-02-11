@@ -27,7 +27,7 @@ html {
   gap: 0.3rem;
 }
 
-.header-container a:hover {
+.header-part-1 ul a:hover {
   color: rgb(0, 0, 0);
 }
 
