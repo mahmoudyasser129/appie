@@ -269,12 +269,12 @@
 
   .section-4-icon {
     flex-direction: column;
-    gap: 3rem;
+    gap: 1.5rem;
   }
 
   .icon-box {
     width: 65%;
-    height: 15.5rem;
+    height: 17rem;
     box-shadow: 0 25px 48px 13px hsla(233, 8%, 58%, 0.205);
   }
 
